@@ -1,0 +1,191 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ancient of dayes is come, the iudgment is set, glad tydings is proclaimed, to Iew and gentile, to bond and free, to high and low, to rich and poor, to small and great; let him that will, come, and receive the offer of his love freely, Isa. 55.1,2. Written by a lover of peace and truth, J.G.</title>
+            <author>J. G. (John Gibson)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85978</idno>
+            <idno type="STC">Wing G669C</idno>
+            <idno type="STC">Thomason E916_2</idno>
+            <idno type="STC">ESTC R200356</idno>
+            <idno type="EEBO-CITATION">99861157</idno>
+            <idno type="PROQUEST">99861157</idno>
+            <idno type="VID">113285</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85978)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113285)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 138:E916[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ancient of dayes is come, the iudgment is set, glad tydings is proclaimed, to Iew and gentile, to bond and free, to high and low, to rich and poor, to small and great; let him that will, come, and receive the offer of his love freely, Isa. 55.1,2. Written by a lover of peace and truth, J.G.</title>
+                  <author>J. G. (John Gibson)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Giles Calvert, at the Black-spread-Eagle, at the West-end of Pauls,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1657]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.G. = John Gibson (cf. Wing).</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "June 28 1657"; "June ye 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb n="1" facs="tcp:113285:1" rendition="simple:additions"/>
+            <head>The Ancient of dayes is come, the Iudgment is ſet, glad Tydings is proclaimed, To Iew and Gentile, to Bond and Free, to High and Low, to Rich and Poor, to Small and Great; Let him that will, come, and receive the offer of his Love freely, <bibl>
+                  <hi>Iſa. 55.1, 2.</hi>
+               </bibl>
+            </head>
+            <byline>Written by a Lover of <hi>Peace</hi> and <hi>Truth,</hi> J.G.</byline>
+            <p>ALL People, who ſtumble at the ſtumbling ſtone, Ariſe, and ſhine, for Light is come; Behold the bright and morning ſtar is riſen; the glorious day is dawned, the Sun doth ſhine, all eyes wax dimme, the wiſe and the prudent are turned into the dark, the night overtakes them, and being in the night they ſtumble, they grope at noon day, the glory of the Sun they cannot behold, the heat thereof they cannot bear, who are at eaſe in Zion; but the Lord doth reign, let the earth rejoyce, <hi>Pſ.</hi> 47.1. his lightnings enlightned the world, <hi>verſ.</hi> 4. yea, the Sun doth appear, clouds are expelled, darkneſs flyes away, and the ſha<g ref="char:EOLhyphen"/>dows are not, the time of the ſinging of Birds is come, <hi>Hoſ.</hi> 14.7. pleſant ſmells as of Lebanon ſent forth; and doth the Inhabitants re<g ref="char:EOLhyphen"/>freſh, the fru<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t appears which beautifies, and doth the trees adorne, come ſee and taſte how good and ſweet it is, it glads both God and man.</p>
+            <pb n="2" facs="tcp:113285:2"/>
+            <p> All ſorts of People, come, buy wine and milk without price, freely you may take, and live, the love of the Lord is free, freely hath he ſent his Son into the world, that the world through him might live and not die, poor hearts you have laboured in vain, and ſpent your ſtrength to no profit, give ear and hear, and your Souls ſhall live.</p>
+            <p>You Profeſſors, in what forme or in what profeſſion ſoever you be in, or under what title ſoever you be called, all your profeſſion will melt as dew before the Sun, who are not yet come to know the Son, nor the day of his appearance; In that day in which the Lord will judge the ſecrets of all hearts, remember you were forwarned to flye from that wrath which is to come; and you now put his day a far off from you, and his appearance is not loved by you, but are crying, Lo here, and lo there, in this forme, or in that forme, but know not the kingdom is within, the power is within, the glory of the Kings Daughter is within; know ye not that your bodies are the temple of the God of Light, and light ſhineth in the darkneſs, and the darkneſs comprehends it not, not all your gifts, and great parts, and wiſdom you have, can comprehend the light which ſhines, but the light ſees, knows, and comprehends where you are, therefore let not the wiſe man glory in his wiſdom, nor the learned Rabbies in their great learning, telling the ſimple ones, that none can know the Scripture but ſuch as have their learning which is earthly, but Father I thank thee, that thou haſt hid theſe things from the wiſe and prudent, and haſt revealed them to babes; yea, verily, verily I ſay unto you, ye that are wiſe muſt become fools that ye may be wiſe, for the Key of <hi>David</hi> ſhall open, and no man can ſhut; and that ſhall ſhut, and no man can open: he that hath an ear to hear, let him hear.</p>
+            <p>Now, to the Judgement come that you may not be judged, now is the Judgment ſet, the Ancient of dayes is coming and come, <hi>Jam.</hi> 5.9. the Judge ſtands at the door, receive him in, kiſs the Son leſt he be angry, and ye periſh, <hi>Pſal</hi> 2 12.</p>
+            <p>Now is the Son come to reign, and he will reign, and ſhall reign, and his enemies ſhall become his footſtoole.</p>
+            <p>And all you that are covered with a Profeſſion talking of the reign<g ref="char:EOLhyphen"/>ing of Chriſt with his Saints, ye be Jewes without, beware ye be not found in the path of your Forefathers, who put the Lamb of God to death, they had as large a Profeſſion upon them as you have, and were as zealous as you are, and a zeal you have, but the vaile is not rent
+<pb n="3" facs="tcp:113285:2"/>from bottom to top, and ſo your zeal is in the dark, clouded, and darkneſs covers that you cannot ſee nor behold the glory and power of that which you in words contend for, but as the Jewes, without, talked, and ſpoke, and Propheſied of a <hi>Meſſiah</hi> to come in glory and greatneſs, without, ſo do you poor hearts, and he came as a thief in the night, he was among them, with them, and they knew him not; him they ſaw not, in ſeeing they perceived not: Although they ſaw his temple, yea, <gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd deſtroyed it, yet him they knew not who was in the temple, as it is written, whom none of the Princes of this world knew, for had they known it, they would not have crucified the Lord of Glory, 1 <hi>Cor.</hi> 2.8. he was daily with them, but themſelves and their honour they loved, and him could not follow; they loved the honour and praiſe one of another as you do, and in him could not believe.</p>
+            <p>Now Jeſus Chriſt, the Ancient of dayes, is come, he that was yeſter<g ref="char:EOLhyphen"/>day, is the ſame this day, the ſame for ever, he who was before <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> was, I am: he is the ſame for ever. And what ground have you, who ſay, you would walk by Scripture-rule, what ground have you from Scripture that the Son will change his Glory, he is the perfection of holineſs, he is the King of <hi>Salem,</hi> he is the Prince of peace, he is the Lamb of God, the Government is upon his ſhoulder, <hi>Iſa.</hi> 9.6. He was dead, and is alive, and lives for evermore; though the glory of man change, he who made man doth not change, he is what he was, and he will never change his being, and whether the Lamb is gone, ye cannot come, and when the Lamb come ye cannot ſtand before h<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s throne, but will flee for refuge, and refuge will flee from you.</p>
+            <p>I was daily with you in the temple, ſaid the Lord Chriſt, the light in man, who hath lighted man: I was daily with you, poor hearts, the light ſhineth in darkneſs, the light is daily within the temple within you, and darkneſs cannot know him, but are ſtumbling and falling, and cannot ſtand in the judgement; and judgement purſues you, but you kick againſt the pricks, behold I ſtand at the door and knock, Oh the patience, love and long-ſuffering, tender bowels of pity, that is in the eternal King of Peace, who comes unto his own, and is not re<g ref="char:EOLhyphen"/>ceived; but as many as him receive, his motions of love and light own and imbrace, to them power is given, and he makes them Kings and Prieſts, and they reign on earth, they bind their Kings in chains, and their Nobles in fetters of iron, this honour hath all the Saints, <hi>Pſal.</hi> 149.8. Poor hearts, who cry out and ſay, Theſe things ſhall
+<pb n="4" facs="tcp:113285:3"/>be, but yet they are not; ye are them that put the day afar off, there is the unbelieving Jew ſaying a <hi>Meſſiah</hi> ſhall come, but this is not the day, and at the ſame time were putting him to-death, ye are doing the ſame, confeſſing with all unbelievers and unclean perſons there is ſuch a day, but not yet, and ſo are found fooliſh virgins without oyl: and though you may have large lamps, yet having no oyl, are ſhut out: and what is your condition better than theirs that are common lyars, ſwearers, drunkards, and whoremongers, for they are ſhut out, and and ſo are you; they are tormented with Devils in utter darkneſs, and ſo are you: Oh that you could ſee the miſery you lie in, though you may be <hi>Dives's</hi> here, great in pomp and glory for a moment, yet your miſery will come upon you like an armed man, and you ſhall not ſcape; ye are crying out of Salvation and Redemption by Chriſt who ſuffer<g ref="char:EOLhyphen"/>ed at <hi>Jeruſalem,</hi> in whom, I believe: but verily, verily, your hopes will ſail you, and all your expectations of Salvation and redemption by him who there was put to death, will not avail any thing unto you, except you be born again; he that hath not the Son, hath not life, but is under wrath, and he that believe in the Son, hath the witneſs in him<g ref="char:EOLhyphen"/>ſelf: and all your crying out of him who was crucified, and yet you not crucified is nothing to your ſouls peace, it is no more than crying out the <hi>Ark of the Lord, the Ark of the Lord, the Temple of the Lord, the Temple of the Lord,</hi> his Temple will not ſave you, except you wit<g ref="char:EOLhyphen"/>neſs him who was in that temple in you, Chriſt the pure light, wiſdom, and power of God, ruling and reigning in your fleſh, and ſo he that denies Chriſt the <hi>Emanuel</hi> God in us, with us, is the Antichriſt which talks of the <hi>Emanuel,</hi> but knows not the <hi>Emanuel,</hi> talk of Chriſt, but knows not Chriſt, talks of a Saviour, but knows not where he is, you are fooliſh virgins, awake, awake, and haſte to meet the bridegroom, for his day is nigh, ariſe ye that are in the earth ſleeping in the duſt, awake and come from the dead to the living, ye are dead and aſleep in ſecurity, your habitation is in the earth, your food is duſt, your clo<g ref="char:EOLhyphen"/>things raggs, your glory is in your ſhame, you are now calling the ap<g ref="char:EOLhyphen"/>pearance of Chriſt blaſphemy, and as he by your forefathers was called a Blaſphemer, a Samaritan, and had a Devil, and caſt out Devils by De<g ref="char:EOLhyphen"/>vils, ſo the ſame ſeed is in you which was in them, the ſeed of enmity and bitterneſs which ever reſiſted the Lambs Appearance, and where he is manifeſt, you own him not, you believe him not, but he is come who will overturn, overturn, overturn all that ſtands in his way, all forms, be they never ſo high, bow they ſhall, no words can cover, no
+<pb n="5" facs="tcp:113285:3"/>image ſhall ſtand, but he alone, all knees muſt bow before the Lamb. All Profeſſions he is overturning, be they never ſo great; and though hand joyn in hand together againſt him who is come to reign, yet judgement is ſet, and juſtice ſhall enter, and the power and dominion of the Beaſt ſhall be taken away; and given into the hands of the Saints of the moſt high, and they ſhall bind in chains, Kings, and Nobles, for the power is put into their hand to execute the judgement written.</p>
+            <p>All you who are in the imatation of Truth, ſhall ſuffer loſs, <hi>Herod</hi> heard <hi>John</hi> Baptiſt gladly, and did many things, but a day came that tryed him: many may hear gladly, and do many things, but the day will try them: Friends, the rod of God is in his hand, and if it comfort you, happy are you, <hi>Pſal</hi> 23.4. but if you will not bow before him, it will break you as a potters veſſel, &amp; none can deliver out of his hand.</p>
+            <p>Friends, your outward waſhings will not ſerve, painted Sepulchres will not ſerve, whited Walls will not ſerve, you may come ſo far, as none in the world may lay evil to your charge; yea, you may come ſo far as to condemne and judge others, and yet no further than the Hypocrites that blamed Chriſt for eating with unwaſhed hands, or plucking ears of corn on their Sabbath: but dear hearts, firſt waſh the cup within, waſh the in-ſide, and as the day dawns, and the day ſtar a<g ref="char:EOLhyphen"/>riſe, the new earth will be witneſſed, and the new heavens wherein righteouſneſs ſhall dwell, where all contention ſhall wither, and all droſs be burnt up: Ye may go far, and yet fall ſhort, though ye may ſpeak with the tongue of men and Angels, and have the Gift of Pro<g ref="char:EOLhyphen"/>pheſie, and underſtand all Myſteries, and all knowledge, and have all faith, and beſtow all your goods to the poor, which is farther than moſt have come, and give the body to the fire, and have not Charity, I am nothing, <hi>Rom.</hi> 1.13. Now to the love come which rejoyceth not in iniquity, but rejoyceth in the truth, and herein rejoyce; and again, I ſay, rejoyce; he that walk in the light, keep in his habitation, he ſtumbles not; in my Fathers houſe is many Manſions, <hi>Joh.</hi> 14 2. Now what the Father hath given, in it to dwell, and to mind your own g<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ft, every member hath a proper gift: only be faithful in your gift, quench not the Spirit, deſpiſe not Prophecying, for ye may all Propheſie one by one, that all may learn; ye that are weak, if you have a word quench it not, ye may learn; for I know that your diſobedience to the pure motion hath been your loſs, and you ſhall know it will be hard for you to come to your firſt Love; but let the earth keep ſilence, and had the
+<pb n="6" facs="tcp:113285:4"/>earth been ſilent from reaſoning, then had God ſpoke forth in his Temple to his own praiſe in the mouth of Babes and Sucklings; abide in your Tent, and as you have received, act; and as perſwaded from the Lord, ſo walk, and compare not your ſelves with your ſelves, nei<g ref="char:EOLhyphen"/>ther meaſure anothers meaſure by yours, mind the motion of Life and Love, and as the pure love in you moves, to it yield, and ceaſe from judging one the other, and dwell as Lambs, and if in any thing any be otherwiſe minded, to your meaſure, know this, he that revealed it unto thee, ſhall reveal it unto thy Brother; ſo grudge not one a<g ref="char:EOLhyphen"/>gainſt another, but let love be all in all: he that abides in his meaſure, non can harm him, although the heathen rage, and the Beaſt, and the falſe Prophet ſet themſelves againſt him, he ſhall reign over all, and the lamb ſhall have dominion: So all, dear friends, into the pure fear come, let the lamb govern, take heed of a bitter root, let ſimplicity be head in you, that you may in the childs eſtate be preſerved, and be found with oyl in your lamps, ready to enter.</p>
+            <p>But all you, who put the day of the Lord afar off, wo and miſery is to you, you ſay God ſhall teach his Children, and mans teaching ſhall ceaſe, but you ſay it is not yet; you ſay Chriſt ſhall reign, but not yet; he ſhall judge the quick and the dead, but not yet; the blind leads the blind and both falls into the ditch, and darkneſs is your dwelling place, you cannot ſee light from darkneſs, day from night, ſo you judge your ſelves not to be children of the day, but of the night; not chil<g ref="char:EOLhyphen"/>dren taught of God, but man: ſo are ſervants to man, free from righ<g ref="char:EOLhyphen"/>teouſneſs being obedient to him who is the enemy of your Soul, the Prince of Darkneſs; you that are in envie, bitterneſs, wrath, evil-ſpeaking, reproaching the innocent, and mocking at them who come in the name of the Lord, and though you have a Profeſſion upon you, yet you are one with the Drunkard, and Swearer, and Lyar, and curſed ſpeaker, they all put the day afar off, it is not yet, and ſo you with them judge your ſelves unworthy of eternal life.</p>
+            <p>Oh you fooliſh Virgins, haſte and come away, the Bridegrome is come, the marriage of the lamb is come, the Ancient of dayes is come, Judgment is ſet, the Kingdoms and the Powers of this World is given and is a giving into the hands of the Saints of the moſt high, open War is proclaimed, and no peace to the wicked ſaith our God and King Jeſus the Chriſt. But all you, my dear Brethren and Siſters, Sons and and Daughters of the moſt high God, who are in the light are come to the day, the night's departed, the ſhadows are gone, the ſummer is
+<pb n="7" facs="tcp:113285:4"/>nigh, the buds doth ſpring, the Sun doth ſhine, the Virgins ſing the ſong of the Lamb, joy is in our dwelling place, therefore rejoyce you Heavens, and you that dwell in them, and though our enemies be the Noble, Mighty, and Great of the earth, yet we reign above them, and over them do ſtand pure eternal praiſe to the Lamb, who is ſet upon the throne, and doth reign for ever and ever. So be it.</p>
+         </div>
+         <div type="statement">
+            <head>A <hi>Paper</hi> Written unto all Friends in Obedience to the Lord, By <hi>I. B.</hi>
+            </head>
+            <p>
+               <hi>THe Word of the Lord came unto me, ſaying, Write theſe things which I ſhall ſhew thee, unto my People which I have choſen this day; thus faith the Lord, If you will be faithful unto me, and ſtand in my Counſel, and be diligent in my Work, to whatſoever I ſhall put into you at any time, whether it be to go to any Meet<g ref="char:EOLhyphen"/>ing where I ſhall ſend any one of you; and when the Power ariſe in you, keep low in it, and ſee what you have to do in it, whether it be to ſpeak, or ſing, be obedient to my voice, and quench not the ſpirit, and when you have done, keep low in your habitations, and keep your watch diligently leſt you get up in the Imaginations of your own head, and ſo get out of my fear, and loſe the Power, and there you grieve my ſpirit, and you become loathſome in my ſight, therefore keep low in your habitations, that you may know the Tent within you, and the Holy City, wherein nothing can enter that is defiled or maketh a Lye: and as you dwell and abide faithful here,
+<pb n="8" facs="tcp:113285:5"/>nothing can come near you, nor hurt you; here dwell and be faithful, and I will be with you, and you ſhall not be aſhamed.</hi>
+            </p>
+            <p>
+               <hi>But if any one of you ſhould draw back from that which I ſhall give you, in thinking of the hardneſs of the Work, and ſo loſe the drawing of the Power within you, the ſame ſpall be confounded and baniſhed from my preſence for ever; there<g ref="char:EOLhyphen"/>fore ſtand faithful in my Work, till I make my Enemies my footſtoole.</hi>
+            </p>
+            <p>
+               <hi>And when you have overcome all, then ſhall Zion be raiſed out of the duſt, and ſhall become the beauty of all Na<g ref="char:EOLhyphen"/>t<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ons, and every one ſhall ſit under his own Vine and Figg<g ref="char:EOLhyphen"/>tree, none ſhall make them afraid, and they ſhall dwell in peace, and ſhall ſing praiſes to my Name for ever.</hi>
+            </p>
+            <l>
+               <hi>Wo, wo, unto the Inhabitants of the Earth,</hi>
+            </l>
+            <l>
+               <hi>by reaſon of the Voyces which are yet to ſound;</hi>
+            </l>
+            <l>
+               <hi>But happy ſhall all you be upon whoſe forehead,</hi>
+            </l>
+            <l>
+               <hi>the Mark of the Lamb is found.</hi>
+            </l>
+            <p>Bear all things patiently: Love all:<lb/> Do good to all: Love your Enemies.</p>
+            <closer>
+               <signed>
+                  <hi>This is given forth by the Will<lb/> of the Living God of Life<lb/> and Power, to all that are in<lb/> his Living Work,</hi> By his Servant, <hi>J. B.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Giles Calvert,</hi> at the Black-ſpread-Eagle, at the Weſt-end of <hi>Pauls,</hi> 1657.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
